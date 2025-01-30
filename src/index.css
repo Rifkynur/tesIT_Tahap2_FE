@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
+.active {
+  @apply text-blue-500;
+}
